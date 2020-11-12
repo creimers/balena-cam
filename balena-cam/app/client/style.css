@@ -148,6 +148,16 @@ body {
   display: none;
 }
 
+.flexer {
+  display: flex;
+  justify-content: center;
+}
+
+video {
+  height: 100vh;
+  width: auto;
+}
+
 #fail-container {
   display: none;
 }
